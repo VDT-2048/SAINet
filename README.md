@@ -9,7 +9,13 @@ We provide the source code of SAINet adn the resutls of our SAINet on the NEU RS
 Download link:
 https://pan.baidu.com/s/1HjGwQot2QuBftGeB_9Ro8g?pwd=sxbr 
 
+# NEU RSDDS-AUG Dataset
+Download link:
+https://pan.baidu.com/s/1xKkyu0y2Z_NpOnf_203Z-w?pwd=u9yn 
+
 
 # Citation
 
 Yunhui Yan, Xiujian Jia,  Kechen Song,  Wenqi Cui, Ying Zhao, Chuang Liu, Jingbo Guo.  Specificity Autocorrelation Integration Network for Surface Defect Detection of No-Service Rail [J]. Optics and Lasers in Engineering,  2024, 172, 107862. 
+
+# Related work of few-shot classification for surface defects
