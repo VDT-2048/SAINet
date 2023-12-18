@@ -3,6 +3,9 @@
 We propose a specificity autocorrelation integration network (SAINet) for surface defect detection of rails. 
 Paper：https://www.sciencedirect.com/science/article/pii/S0143816623003913?dgcid=author
 
+[2024-Specificity autocorrelation integration network for surface defect detection of no-service rail.pdf](https://github.com/VDT-2048/SAINet/files/13700304/2024-Specificity.autocorrelation.integration.network.for.surface.defect.detection.of.no-service.rail.pdf)
+
+
 # Code and Results of SAINet
 
 We provide the source code of SAINet adn the resutls of our SAINet on the NEU RSDDS-AUG dataset and six other benchmark datasets.
